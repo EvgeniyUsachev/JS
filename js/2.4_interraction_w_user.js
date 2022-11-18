@@ -8,10 +8,10 @@ console.log(result); */
 /* const answer = prompt('Вам есть 18?', '');
 console.log(typeof(answer)); */
 
-const answers = [];
-/* 
+/* const answers = [];
+
 answers [0] = prompt('Kak dela?', '');
 answers [1] = prompt('name?', '');
 answers [2] = prompt('age?', '');
- */
-console.log(typeof(answers));
+
+console.log((answers)); */
