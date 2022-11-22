@@ -17,8 +17,8 @@ options.makeTest();
 
 // ДЕСТРУКТУРИЗАЦИЯ 
 
-let {border: b, background: bg} = options.colors;
-console.log(border);
+let {border:b, background:bg} = options.colors;
+console.log(bg);
 
 //
 
