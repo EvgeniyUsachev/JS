@@ -55,4 +55,6 @@ for (let key in options) {
     } else {
         console.log(`Свеойство ${key} имеет значение ${options[key]}`);
     }
+
 }
+

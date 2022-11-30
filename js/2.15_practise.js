@@ -39,7 +39,7 @@ function rememberMyFilms(){
     }
 }
 
-/* rememberMyFilms(); */
+rememberMyFilms();
 
 
 function detectPersonalLevel() {
@@ -54,16 +54,9 @@ function detectPersonalLevel() {
     }
 }
 
-/* detectPersonalLevel(); */
+detectPersonalLevel();
 
 
-
-/* 2) Создать функцию showMyDB, которая будет проверять свойство privat. Если стоит в позиции
-false - выводит в консоль главный объект программы
-
-3) Создать функцию writeYourGenres в которой пользователь будет 3 раза отвечать на вопрос 
-"Ваш любимый жанр под номером ${номер по порядку}". Каждый ответ записывается в массив данных
-genres */
 
 function showMyDB(hidden){
     if (!hidden) {
