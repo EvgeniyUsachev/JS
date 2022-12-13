@@ -25,3 +25,5 @@ var myName ='Zhenya';
 }
 
 console.log(result);
+
+asdasd
